@@ -1,0 +1,6 @@
+C:\Users\kappa\Desktop\MessageType\MessageType\bin\Debug\MessageType.dll
+C:\Users\kappa\Desktop\MessageType\MessageType\bin\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\MessageType\MessageType\obj\Debug\MessageType.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\MessageType\MessageType\obj\Debug\MessageType.dll
+C:\Users\kappa\Desktop\MessageType\MessageType\obj\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\MessageType\MessageType\obj\Debug\MessageType.csprojResolveAssemblyReference.cache

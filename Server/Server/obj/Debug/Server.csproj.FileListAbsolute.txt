@@ -1,0 +1,51 @@
+C:\Users\student\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\student\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\student\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\student\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\student\Desktop\Server\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\student\Desktop\Server\Server\bin\Debug\Google.Protobuf.dll
+C:\Users\student\Desktop\Server\Server\bin\Debug\MessageType.dll
+C:\Users\student\Desktop\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\student\Desktop\Server\Server\bin\Debug\Google.Protobuf.xml
+C:\Users\student\Desktop\Server\Server\bin\Debug\MessageType.pdb
+C:\Users\student\Desktop\Server\Server\bin\Debug\MySql.Data.xml
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\Google.Protobuf.dll
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\MessageType.dll
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\Google.Protobuf.xml
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\Server\Server\bin\Debug\MySql.Data.xml
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\kappa\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\Server.exe.config
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\Server.exe
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\Server.pdb
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\Google.Protobuf.dll
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\MessageType.dll
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\Google.Protobuf.xml
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\C# Project\Server\Server\bin\Debug\MySql.Data.xml
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.exe
+C:\Users\kappa\Desktop\C# Project\Server\Server\obj\Debug\Server.pdb

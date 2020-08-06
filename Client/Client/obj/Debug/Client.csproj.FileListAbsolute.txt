@@ -1,0 +1,45 @@
+C:\Users\student\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\student\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\student\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.Form_LogIn.resources
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.Form_SignUp.resources
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\student\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\kappa\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\kappa\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\kappa\Desktop\Client\Client\bin\Debug\MessageType.dll
+C:\Users\kappa\Desktop\Client\Client\bin\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Add_Chater.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Form_LogIn.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Form_SignUp.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.MainPage.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Game.resources
+C:\Users\kappa\Desktop\Client\Client\obj\Debug\Client.Awaiting.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\bin\Debug\Client.exe.config
+C:\Users\kappa\Desktop\C# Project\Client\Client\bin\Debug\Client.exe
+C:\Users\kappa\Desktop\C# Project\Client\Client\bin\Debug\Client.pdb
+C:\Users\kappa\Desktop\C# Project\Client\Client\bin\Debug\MessageType.dll
+C:\Users\kappa\Desktop\C# Project\Client\Client\bin\Debug\MessageType.pdb
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Add_Chater.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Awaiting.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Form_LogIn.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Form_SignUp.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Game.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.MainPage.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.exe
+C:\Users\kappa\Desktop\C# Project\Client\Client\obj\Debug\Client.pdb
